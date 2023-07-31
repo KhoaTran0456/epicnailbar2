@@ -1,0 +1,244 @@
+{
+  "info": {
+    "salon": {
+      "store"   : "Epic Nail Bar 2",
+      "slug"    : "Epic-nail-bar-2",
+      "phone"   : "(000) 000-0000",
+      "email"   : "epiclegacyinc@gmail.com",
+      "address" : "4440 State Hwy 121 Ste #45 Lewisville, Texas 75056",
+      "state"   : "Texas 75056",
+      "ward"    : "Lewisville",
+      "time_1"  : "Mon - Fri: 09:00 AM - 07:00 PM",
+      "time_2"  : "Sat: 09:00 AM - 06:00 PM",
+      "time_3"  : "Sun: 10:00 AM - 05:00 PM"
+    },
+
+    "social": {
+        "facebook"  :   "https://www.facebook.com",
+        "instagram" :   "https://www.instagram.com",
+        "google"    :   "https://www.google.com",
+        "booking"   :   "https://www.facebook.com",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3343.788413479053!2d-96.89752752378543!3d33.0620368693649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c258936eac9d1%3A0xe5b6441b5fd23d96!2s4440%20State%20Hwy%20121%20%2345%2C%20The%20Colony%2C%20TX%2075056!5e0!3m2!1sen!2sus!4v1690801468726!5m2!1sen!2sus"
+	},
+    "color": {
+        "primary"               :   "#ff847d",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "img/",
+    "domain": "http://domain.com/"
+  },
+  "categories": [
+    {
+      "name": "SERVICE A",
+      "home": true,
+      "special": true,
+	  "src" : "Epic-nail-bar-2-service-01.jpg"
+    },    
+    {
+      "name": "SERVICE B",
+      "home": true,
+      "special": true,
+	  "src" : "Epic-nail-bar-2-service-02.jpg"
+    },    
+    {
+      "name": "SERVICE C",
+      "home": false,
+      "special": true,
+	  "src" : "Epic-nail-bar-2-service-03.jpg"
+    },    
+    {
+      "name": "SERVICE D",      
+      "home": false,
+      "special": false,
+	  "src" : "Epic-nail-bar-2-service-04.jpg"
+    }
+
+
+
+
+      
+  ],
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "Epic-nail-bar-2-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "Epic-nail-bar-2-gallery-02.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-03",
+      "url": "Epic-nail-bar-2-gallery-03.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-04",
+      "url": "Epic-nail-bar-2-gallery-04.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-05",
+      "url": "Epic-nail-bar-2-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "Epic-nail-bar-2-gallery-06.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-07",
+      "url": "Epic-nail-bar-2-gallery-07.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-08",
+      "url": "Epic-nail-bar-2-gallery-08.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "Epic-nail-bar-2-gallery-09.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-10",
+      "url": "Epic-nail-bar-2-gallery-10.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-11",
+      "url": "Epic-nail-bar-2-gallery-11.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-12",
+      "url": "Epic-nail-bar-2-gallery-12.jpg",
+      "home": false
+    }
+  ],
+  "services": [
+    
+    {
+      "category": "SERVICE A",
+      "name": "Service A-01",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE A",
+      "name": "Service A-02",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE A",
+      "name": "Service A-03",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "SERVICE B",
+      "name": "Service B-01",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE B",
+      "name": "Service B-02",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE B",
+      "name": "Service B-03",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+
+
+
+
+    {
+      "category": "SERVICE C",
+      "name": "Service C-01",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE C",
+      "name": "Service C-02",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE C",
+      "name": "Service C-03",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+
+
+
+
+    {
+      "category": "SERVICE D",
+      "name": "Service D-01",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE D",
+      "name": "Service D-02",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "SERVICE D",
+      "name": "Service D-03",
+      "url": "",
+      "home": true,
+      "price": 15,
+      "plus": false
+    }
+
+  ]
+}
