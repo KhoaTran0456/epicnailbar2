@@ -39,13 +39,13 @@
   },
   "categories": [
     {
-      "name": "SERVICE A",
+      "name": "PREMIUM REVIVAL",
       "home": true,
       "special": true,
 	  "src" : "Epic-nail-bar-2-service-01.jpg"
     },    
     {
-      "name": "SERVICE B",
+      "name": "PURE BLISS",
       "home": true,
       "special": true,
 	  "src" : "Epic-nail-bar-2-service-02.jpg"
@@ -132,59 +132,11 @@
   ],
   "services": [
     
-    {
-      "category": "SERVICE A",
-      "name": "Service A-01",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
-    {
-      "category": "SERVICE A",
-      "name": "Service A-02",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
-    {
-      "category": "SERVICE A",
-      "name": "Service A-03",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
+      
 
 
 
-    {
-      "category": "SERVICE B",
-      "name": "Service B-01",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
-    {
-      "category": "SERVICE B",
-      "name": "Service B-02",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
-    {
-      "category": "SERVICE B",
-      "name": "Service B-03",
-      "url": "",
-      "home": true,
-      "price": 15,
-      "plus": false
-    },
-
-
+    
 
 
     {
