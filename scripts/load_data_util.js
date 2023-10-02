@@ -64,7 +64,8 @@ function loadData(pageName) {
 			$("[data-facebook]").attr('href', cgf.info.social.facebook);
 			$("[data-instagram]").attr('href', cgf.info.social.instagram);
 			$("[data-google]").attr('href', cgf.info.social.google);
-			$("[data-maps]").attr('src', cgf.info.social.maps);
+			$("[data-maps-1]").attr('src', cgf.info.social.maps1);
+			$("[data-maps-2]").attr('src', cgf.info.social.maps2);
 			$("[data-phone]").attr('href', "tel:" + cgf.info.salon.phone);
 
 
